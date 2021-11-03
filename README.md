@@ -1,0 +1,2 @@
+# Java-PythagoreanTriple
+:jp: Um triplo pitagórico consiste em três inteiros positivos a, b e c, de modo que a2 + b2 = c2. Tal triplo é comumente escrito (a, b, c), e um exemplo bem conhecido é (3, 4, 5). Se (a, b, c) é um triplo pitagórico, então o é (ka, kb, kc) para qualquer inteiro positivo k. Um triplo pitagórico primitivo é aquele em que a, bec são coprimos (ou seja, não têm divisor comum maior que 1). Um triângulo cujos lados formam um triplo pitagórico é chamado de triângulo pitagórico e é necessariamente um triângulo retângulo.
